@@ -1,0 +1,117 @@
+/* font-family: 'Rubik', sans-serif;
+font-family: 'Baloo Thambi', cursive;
+font-family: 'Press Start 2P', cursive; */
+nav ul{
+    list-style: none;
+    padding-left: 0;
+}
+nav a{
+    text-decoration: none;
+}
+#contacts{
+    max-width: 450px;
+    padding: 20px;
+    background-color: yellowgreen;
+    margin: auto;
+    border: 4px dashed purple;
+    background-image: url(images/tiles.png);
+}h1, h2, h3{
+    text-align: center;
+}
+h1{
+    color: blue;
+    font-family: 'Baloo Thambi', cursive;
+    color: blue;
+}
+h2{
+    color: yellow;
+}
+h3{
+    color: seagreen;
+}
+p{
+    text-align: left;
+    color: purple;
+    font-family: 'Rubik', sans-serif;
+}
+main{
+    max-width: 550px;
+    margin: auto;
+    padding: 0 25px;
+    text-align: center;
+    border: 5px dotted green;
+    background-color: lightcoral;
+    background-image: url(images/arches.png);
+}
+b{
+    color: green;
+}
+#welcome{
+    text-align: center;
+    font-size: 3rem;
+    color: red;
+    max-width: 320px;
+    margin: auto;
+    border: 4px solid green;
+    font-family: 'Press Start 2P', cursive;
+    background-color: black;
+}
+body{
+    background-color: lightblue;
+    background-image: url(images/gun-metal.png);
+    text-align: center;
+}
+#aboutme{
+    max-width: 800px;
+    padding: 10px;
+    margin: auto;
+    border: 4px solid blue;
+    background-color: red;
+}
+article{
+    padding: 10px;
+}
+#p1{
+    max-width: 200px;
+    float: right;
+    margin: auto;
+    border: 5px dotted red;
+    background-color: yellow;
+    background-image: url(images/arabesque.png);
+}
+#p2{
+    max-width: 500px;
+    float: left;
+    margin: auto;
+    border: 5px dashed green;
+    background-color: lightgreen;
+    background-image: url(images/arabesque.png);
+}
+#p3{
+    max-width: 700px;
+    margin: auto;
+    border: 5px dashed purple;
+    background-color: orange;
+    clear: both;
+    background-image: url(images/arabesque.png);
+}
+#p4{
+    max-width: 700px;
+    margin: auto;
+    border: 5px dotted lightcoral;
+    background-color: green;
+    background-image: url(images/argyle.png);
+}
+#p4 h3{
+    color: lightcoral;
+}
+#images{
+    max-width: 700px;
+    margin: auto;
+    border: 6px solid black;
+    background-image: url(images/gun-metal.png);
+    background-color: lightpink;
+}
+#images p{
+    color: green;
+}
